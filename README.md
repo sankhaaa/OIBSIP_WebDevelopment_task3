@@ -73,3 +73,6 @@ JavaScript (script.js)
       Responsive Layout: Works well on desktop and mobile.
       
       Clean Code: Separated HTML, CSS, and JavaScript.
+
+Video Links:
+https://youtu.be/QyLsFlyM6XA?si=6ULpcPOZbUnURqmM
